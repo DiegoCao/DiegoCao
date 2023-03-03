@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I just graduate from University of Michigan and obtained my bacelor's degree in Computer science.
+- 🔭 I just graduate from University of Michigan and obtained my bachelor's degree in Computer science.
 - 🌱 I’m currently learning computational data science at Carnegie Mellon University.
 - 👯 I’m looking to collaborate on cool open source project.
 - 📫 I'm currently seeking 2023 Summer Internships in Software Development / Machine Learning.
