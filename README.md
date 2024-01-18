@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I just graduate from University of Michigan and obtained my bachelor's degree in Computer science.
 - 🌱 I’m currently learning computational data science at Carnegie Mellon University.
-- 👯 I’m looking to collaborate on cool open source project.
+- 👯 I’m looking to collaborate on cool open source project in following area: Machine Learning Systems, Cloud Infra, Distributed ML Framework Optimization
 - 📫 I'm currently seeking 2024 full time software engineer positions.
 - 😄 My interested field are in cloud computing, distributed systems, edge computing and machine learning systems.
 - ⚡ Fun fact: I am fascinated by sports🏀🏸️🏃🏊.
