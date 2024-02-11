@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 📫 I'm currently seeking 2024 full time software engineer positions.
 - 😄 My interested field are in cloud computing, distributed systems, edge computing and machine learning systems.
 - ⚡ Fun fact: I am fascinated by sports🏀🏸️🏃🏊.
+
+[![Diego Cao stats](https://github-readme-stats.vercel.app/api?username=diegocao)](https://github.com/anuraghazra/github-readme-stats)
