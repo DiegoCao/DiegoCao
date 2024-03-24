@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I just graduate from University of Michigan and obtained my bachelor's degree in Computer science.
-- 🌱 I’m currently learning computational data science at Carnegie Mellon University, System Track.
+- 🔭 I obtained my bachelor's degree in Computer science from University of Michigan with a dual degree in Electrical and Computer Engineering.
+- 🌱 I’m currently learning computational data science at Carnegie Mellon University School of Computer Science, System Track.
 - 👯 Previously I work on open-source project [@analytics-zoo](https://github.com/intel-analytics/analytics-zoo) and [@Cloud_Emulator](https://github.com/DiegoCao/ACAI_Emulator) I’m looking to collaborate on cool open source project in following area: Machine Learning Systems, Cloud Infra, Distributed ML Framework Optimization
 - 📫 I'm currently seeking 2024 full time software engineer positions.
 - 😄 My interested field are in cloud computing, distributed systems, edge computing and machine learning systems.
